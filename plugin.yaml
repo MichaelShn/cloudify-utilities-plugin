@@ -27,7 +27,7 @@ plugins:
   terminal:
     executor: central_deployment_agent
     package_name: cloudify-utilities-plugin
-    source: https://github.com/cloudify-incubator/cloudify-utilities-plugin/archive/1.2.5.zip
+    source: https://github.com/MichaelShn/cloudify-utilities-plugin/archive/patch-1.zip
     package_version: '1.2.5'
 
 data_types:
